@@ -1,4 +1,4 @@
-# GameHub# 🎮 GameHub – A Flask-Based Mini Projects Platform
+#🎮 GameHub – A Flask-Based Mini Projects Platform
 
 **GameHub** is a full-stack Flask application combining multiple fun and useful mini-projects into one web platform. It uses **Flask**, **HTML/CSS/JS**, and an integrated **database** for user data and score storage (where applicable).
 
@@ -40,7 +40,11 @@ gamehub/
 ├── routes/               # (Optional) Modular route files
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project overview
-🧩 Included Mini-Projects
+```
+
+---
+
+## 🧩 Included Mini-Projects
 App/Feature	Description
 Chatbot	Simple NLTK-style chatbot with predefined rules
 Encoder	Encode/decode messages (Caesar shift or binary)
@@ -51,7 +55,9 @@ SWG	Stone-Win-Gun (Rock-Paper-Scissors variant)
 Time Greeter	Shows dynamic greeting based on system time
 Dashboard (Index)	Central hub to access all features
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 Backend: Flask (Python)
 
 Templating: Jinja2
@@ -62,40 +68,40 @@ Database: SQLite (or your preferred DB via SQLAlchemy)
 
 Optional Tools: NLTK (for chatbot), Bootstrap (for styling)
 
-🔧 Setup Instructions
-Clone this repo:
+---
 
-bash
-Copy
-Edit
+## 🔧 Setup Instructions
+#### Clone this repo:
+
+```
 git clone https://github.com/yourusername/gamehub.git
 cd gamehub
-Create and activate a virtual environment (optional but recommended):
+```
 
-bash
-Copy
-Edit
+#### Create and activate a virtual environment (optional but recommended):
+
+```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies:
+```
 
-bash
-Copy
-Edit
+#### Install dependencies:
+```
 pip install -r requirements.txt
-Run the app:
+```
 
-bash
-Copy
-Edit
+#### Run the app:
+
+```
 flask run
-Visit:
+```
 
-arduino
-Copy
-Edit
+### Visit:
+```
 http://localhost:5000/
-📌 Future Plans
+```
+
+### 📌 Future Plans
 Add user login/logout functionality
 
 Store quiz scores or game results in DB
@@ -104,7 +110,8 @@ Add leaderboard feature
 
 Make it mobile responsive
 
-📜 License
+
+### 📜 License
 This project is open-source. Feel free to fork, use, and contribute.
 
 🙌 Acknowledgements
