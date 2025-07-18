@@ -1,4 +1,4 @@
-#🎮 GameHub – A Flask-Based Mini Projects Platform
+# 🎮 GameHub – A Flask-Based Mini Projects Platform
 
 **GameHub** is a full-stack Flask application combining multiple fun and useful mini-projects into one web platform. It uses **Flask**, **HTML/CSS/JS**, and an integrated **database** for user data and score storage (where applicable).
 
@@ -101,6 +101,8 @@ flask run
 http://localhost:5000/
 ```
 
+---
+
 ### 📌 Future Plans
 Add user login/logout functionality
 
@@ -110,9 +112,12 @@ Add leaderboard feature
 
 Make it mobile responsive
 
+---
 
 ### 📜 License
 This project is open-source. Feel free to fork, use, and contribute.
 
-🙌 Acknowledgements
+---
+
+### 🙌 Acknowledgements
 Thanks to open-source libraries and inspiration from daily coding fun! 🎉
