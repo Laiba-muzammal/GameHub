@@ -51,6 +51,8 @@ gamehub/
 └── README.md             # You're here!
 ```
 
+---
+
 ## 🧩 Included Mini-Projects
 App/Feature	Description
 Chatbot	Simple NLTK-style chatbot with predefined rules
@@ -62,6 +64,7 @@ SWG	Stone-Win-Gun (Rock-Paper-Scissors variant)
 Time Greeter	Shows dynamic greeting based on system time
 Dashboard	Central hub to access all features (index.html)
 
+---
 
 ## 🛠️ Tech Stack
 Backend: Flask (Python)
@@ -74,39 +77,39 @@ Database: SQLite (via SQLAlchemy, optional)
 
 Extra: NLTK (for chatbot), Bootstrap (optional for styling)
 
+---
+
 ## 🔧 Setup Instructions
 Clone this repo:
-
-bash
-Copy
-Edit
+```
 git clone https://github.com/yourusername/gamehub.git
 cd gamehub
-Create and activate a virtual environment:
+```
 
-bash
-Copy
-Edit
+Create and activate a virtual environment:
+```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
 Install requirements:
 
-bash
-Copy
-Edit
+```
 pip install -r requirements.txt
+```
+
 Run the app:
 
-bash
-Copy
-Edit
+```
 flask run
-Visit:
+```
 
-arduino
-Copy
-Edit
+Visit:
+```
 http://localhost:5000/
+```
+
+---
 
 ## 📌 Future Plans
 🔐 Add user login/signup
@@ -117,12 +120,7 @@ http://localhost:5000/
 
 🎨 Improve layout with better UI/UX
 
+---
+
 ## 📜 License
 This is a private learning project. Forking or copying for learning is encouraged — credits appreciated.
-
-## 🙌 Acknowledgements
-Python & Flask Docs
-
-Open-source JS games logic
-
-NLTK, Bootstrap, and all creative code out there
