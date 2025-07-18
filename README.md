@@ -52,17 +52,18 @@ gamehub/
 ```
 
 ---
-
 ## 🧩 Included Mini-Projects
-App/Feature	Description
-Chatbot	Simple NLTK-style chatbot with predefined rules
-Encoder	Encode/decode messages (Caesar shift or binary)
-Hangman	Classic hangman game with random word logic
-Quiz	Quiz app with scoring logic and question sets
-Stock Viewer	Static or mock API-based stock value fetcher
-SWG	Stone-Win-Gun (Rock-Paper-Scissors variant)
-Time Greeter	Shows dynamic greeting based on system time
-Dashboard	Central hub to access all features (index.html)
+
+| Feature         | Description                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Chatbot**     | Simple NLTK-style chatbot that replies using predefined rules               |
+| **Encoder**     | Encode or decode text using Caesar cipher or binary logic                   |
+| **Hangman**     | Classic hangman game with random word selection                             |
+| **Quiz**        | Quiz app with scoring system and question sets                              |
+| **Stock Viewer**| Mock/static stock value fetcher (can be extended with live API)             |
+| **SWG**         | "Stone-Win-Gun" — a fun Rock-Paper-Scissors variant                         |
+| **Time Greeter**| Shows a greeting (Good Morning/Afternoon/Evening) based on system time      |
+| **Dashboard**   | Central hub (`index.html`) to access all mini-projects                      |
 
 ---
 
