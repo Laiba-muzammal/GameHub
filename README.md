@@ -49,7 +49,9 @@ gamehub/
 ├── models.py             # SQLAlchemy models (if used)
 ├── requirements.txt      # Python dependencies
 └── README.md             # You're here!
-🧩 Included Mini-Projects
+```
+
+## 🧩 Included Mini-Projects
 App/Feature	Description
 Chatbot	Simple NLTK-style chatbot with predefined rules
 Encoder	Encode/decode messages (Caesar shift or binary)
@@ -60,7 +62,8 @@ SWG	Stone-Win-Gun (Rock-Paper-Scissors variant)
 Time Greeter	Shows dynamic greeting based on system time
 Dashboard	Central hub to access all features (index.html)
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 Backend: Flask (Python)
 
 Templating: Jinja2
@@ -71,7 +74,7 @@ Database: SQLite (via SQLAlchemy, optional)
 
 Extra: NLTK (for chatbot), Bootstrap (optional for styling)
 
-🔧 Setup Instructions
+## 🔧 Setup Instructions
 Clone this repo:
 
 bash
@@ -104,7 +107,8 @@ arduino
 Copy
 Edit
 http://localhost:5000/
-📌 Future Plans
+
+## 📌 Future Plans
 🔐 Add user login/signup
 
 🏆 Save scores and display leaderboards
@@ -113,10 +117,10 @@ http://localhost:5000/
 
 🎨 Improve layout with better UI/UX
 
-📜 License
+## 📜 License
 This is a private learning project. Forking or copying for learning is encouraged — credits appreciated.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Python & Flask Docs
 
 Open-source JS games logic
